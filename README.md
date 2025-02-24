@@ -1,7 +1,7 @@
 
 
 **Project Overview**
-SkyLink Airlines needs a proof-of-concept flight booking system. This project goes beyond class material, implementing Java, version control, OOP, 2D arrays, Java Collections, and JUn This system manages flights, seats, and customer bookings efficiently.
+SkyLink Airlines needs a proof-of-concept flight booking system. This project goes beyond class material, implementing Java, version control, OOP, 2D arrays, Java Collections, and JUnit. This system manages flights, seats, and customer bookings efficiently.
 
   **Flights ✈️**
     Each flight has a number, origin, destination (3-letter airport code), and date.
